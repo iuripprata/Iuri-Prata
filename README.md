@@ -1,4 +1,4 @@
-## Olá pessoal 👋
+## Bem vindos!
 
 - 🔭 Atualmente estou trabalhando como bolsista de Suporte de TI na Reitoria do IFCE
 - 🌱 Atualmente estou cursando Engenharia de Telecomunicações

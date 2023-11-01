@@ -1,10 +1,10 @@
 ## Bem vindos!
 
 - 🔭 Atualmente estou trabalhando como bolsista de Suporte de TI na Reitoria do IFCE
-- 🌱 Atualmente estou cursando Engenharia de Telecomunicações
-- 🤔 Estou procurando ajuda com desenvolvimento em Flutter e Back-End
+- 👨🏼‍💻 Atualmente estou cursando Engenharia de Telecomunicações
+- 🔍 Estou procurando ajuda com desenvolvimento em Flutter e Back-End
 - 😄 Pronomes: Ele / Dele
-- ⚡ Curiosidade: Aspirante a Game Designer, estudante iniciante de Libras e fã de animações.
+- ⚜ Curiosidade: Aspirante a Game Designer, estudante iniciante de Libras e fã de animações.
 
 ## 🎓 Formação:
 - 💻 Curso Técnico Integrado em Informática pelo IFCE (2019 - 2022)

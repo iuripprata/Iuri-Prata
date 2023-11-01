@@ -31,8 +31,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
+## 📊 Estatísticas:
+<div align="center">
+<a href="https://github.com/GustavoHenrique07/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&show_icons=true&theme=tokyonight"/>
+</a>
+</div>
   
-
 ## 📫 Contatos: 
 <div>
 <a href="https://t.me/ipprata" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>

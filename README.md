@@ -1,6 +1,6 @@
 ## Bem vindos!
 
-- 🔭 Atualmente estou trabalhando como bolsista de Suporte de TI na Reitoria do IFCE
+- 🔧 Atualmente estou trabalhando como bolsista de Suporte de TI na Reitoria do IFCE
 - 👨🏼‍💻 Atualmente estou cursando Engenharia de Telecomunicações
 - 🔍 Estou procurando ajuda com desenvolvimento em Flutter e Back-End
 - 😄 Pronomes: Ele / Dele

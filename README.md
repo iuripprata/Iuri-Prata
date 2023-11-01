@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
 ## 📊 Estatísticas:
-<div align="center">
+<div align="left">
 <a href="https://github.com/iuripprata/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iuripprata&show_icons=true&theme=tokyonight"/>
 </a>

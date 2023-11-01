@@ -33,8 +33,8 @@
 
 ## 📊 Estatísticas:
 <div align="center">
-<a href="https://github.com/GustavoHenrique07/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoHenrique07&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/iuripprata/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iuripprata&show_icons=true&theme=tokyonight"/>
 </a>
 </div>
   
